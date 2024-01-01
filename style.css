@@ -1,0 +1,15 @@
+body{
+    background-image: radial-gradient(circle at center center, rgba(33,33,33,0),rgb(33,33,33)),repeating-linear-gradient(135deg, rgb(33,33,33) 0px, rgb(33,33,33) 1px,transparent 1px, transparent 4px),repeating-linear-gradient(45deg, rgb(56,56,56) 0px, rgb(56,56,56) 5px,transparent 5px, transparent 6px),linear-gradient(90deg, rgb(154, 141, 141),rgb(163, 154, 154));
+}
+.text-white{
+    background-color: rgb(11, 182, 139);
+}
+.btn{
+    color: white !important;
+    background-image: radial-gradient(circle at center center, rgba(74, 72, 72, 0),rgb(11, 11, 11)),repeating-linear-gradient(135deg, rgb(40, 36, 36) 0px, rgb(45, 28, 28) 1px,transparent 1px, transparent 4px),repeating-linear-gradient(45deg, rgb(125, 120, 120) 0px, rgb(56,56,56) 5px,transparent 5px, transparent 6px),linear-gradient(90deg, rgb(33,33,33),rgb(33,33,33));
+
+}
+.card{
+    color: white !important;
+    background-color: rgb(10, 168, 196) !important;  
+}
